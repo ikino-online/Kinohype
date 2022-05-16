@@ -1,0 +1,5 @@
+aiogram~=2.11.2
+aiohttp~=3.7.3
+loader~=2017.9.11
+utils~=1.0.1
+telegram~=0.0.1
